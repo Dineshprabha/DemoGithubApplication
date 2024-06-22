@@ -1,0 +1,6 @@
+package com.dineshprabha.githubdemoapplication
+
+import android.app.Application
+
+class MyApplication: Application() {
+}
